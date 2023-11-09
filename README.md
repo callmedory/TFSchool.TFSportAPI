@@ -12,7 +12,7 @@ A website with current news from the world of sports.
   <li>Iryna Kultysheva	[QA] mentor	iryna.kultysheva@techfabric.com</li>
   <li>Yurii Bilousov [QA] bilousovyurii@gmail.com</li>
   <li>Daria Reu	[BE] dominica.diem@gmail.com</li>
-  <li>Tetiana Trachuk	[BE] tankatrachuk@gmail.com</li>]
+  <li>Tetiana Trachuk	[BE] tankatrachuk@gmail.com</li>
   <li>Mariya Tanina	[FE] mariyatkach2002@gmail.com</li>
   <li>Roman Kremez [FE] romaratmir@gmail.com</li>
 </ul>
